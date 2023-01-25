@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ejjlGszbY/JSOamF45duw3X2pcUB8G2Or4izo/9xorzZROWgWyY4nOT42Rl7QZhkuV0jwGr1pRmvrHs6bBOtYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\P\\Desktop\\Singleton - ConfigurationManager\\Singleton - ConfigurationManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\P\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

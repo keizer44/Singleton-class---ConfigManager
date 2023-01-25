@@ -1,0 +1,4 @@
+"Title": "My Application",
+"Version": "1.0",
+"BaseURL": "http://www.example.com",
+"UsersCapacity": 10

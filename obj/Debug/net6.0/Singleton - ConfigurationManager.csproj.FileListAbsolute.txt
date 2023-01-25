@@ -1,0 +1,17 @@
+C:\Users\P\Desktop\C#\Singleton - ConfigurationManager\bin\Debug\net6.0\Singleton - ConfigurationManager.exe
+C:\Users\P\Desktop\C#\Singleton - ConfigurationManager\bin\Debug\net6.0\Singleton - ConfigurationManager.deps.json
+C:\Users\P\Desktop\C#\Singleton - ConfigurationManager\bin\Debug\net6.0\Singleton - ConfigurationManager.runtimeconfig.json
+C:\Users\P\Desktop\C#\Singleton - ConfigurationManager\bin\Debug\net6.0\Singleton - ConfigurationManager.dll
+C:\Users\P\Desktop\C#\Singleton - ConfigurationManager\bin\Debug\net6.0\Singleton - ConfigurationManager.pdb
+C:\Users\P\Desktop\C#\Singleton - ConfigurationManager\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\P\Desktop\C#\Singleton - ConfigurationManager\obj\Debug\net6.0\Singleton - ConfigurationManager.csproj.AssemblyReference.cache
+C:\Users\P\Desktop\C#\Singleton - ConfigurationManager\obj\Debug\net6.0\Singleton - ConfigurationManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P\Desktop\C#\Singleton - ConfigurationManager\obj\Debug\net6.0\Singleton - ConfigurationManager.AssemblyInfoInputs.cache
+C:\Users\P\Desktop\C#\Singleton - ConfigurationManager\obj\Debug\net6.0\Singleton - ConfigurationManager.AssemblyInfo.cs
+C:\Users\P\Desktop\C#\Singleton - ConfigurationManager\obj\Debug\net6.0\Singleton - ConfigurationManager.csproj.CoreCompileInputs.cache
+C:\Users\P\Desktop\C#\Singleton - ConfigurationManager\obj\Debug\net6.0\Singleton - ConfigurationManager.csproj.CopyComplete
+C:\Users\P\Desktop\C#\Singleton - ConfigurationManager\obj\Debug\net6.0\Singleton - ConfigurationManager.dll
+C:\Users\P\Desktop\C#\Singleton - ConfigurationManager\obj\Debug\net6.0\refint\Singleton - ConfigurationManager.dll
+C:\Users\P\Desktop\C#\Singleton - ConfigurationManager\obj\Debug\net6.0\Singleton - ConfigurationManager.pdb
+C:\Users\P\Desktop\C#\Singleton - ConfigurationManager\obj\Debug\net6.0\Singleton - ConfigurationManager.genruntimeconfig.cache
+C:\Users\P\Desktop\C#\Singleton - ConfigurationManager\obj\Debug\net6.0\ref\Singleton - ConfigurationManager.dll
